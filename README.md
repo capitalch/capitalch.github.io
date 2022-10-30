@@ -7,3 +7,6 @@ You need to know markup syntax. To create a site you can start with any template
 **I followed following process to create this personal site:**
 1. Forked a minimal blog site from [Here](https://github.com/barryclark/jekyll-now) and named the forked repository as **capitalch.github.io**
 2. Made necessary changes in **_config.yml** file and other files such as **about.md** and in _posts folder. Any file with proper datetime format you add in _posts folder will appear as your new blog post
+
+  
+A good document theme is [just-the-docs](https://github.com/just-the-docs/just-the-docs)
